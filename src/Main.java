@@ -2,6 +2,12 @@ import Animais.Cachorro;
 
 public class Main {
     public static void main(String[] args) {
+
+        fcachorro(); 
+
+    }
+
+    public static void  fcachorro(){
         Cachorro cachorro1 = new Cachorro();
 
         cachorro1.nome = "TesteDog";
@@ -10,6 +16,9 @@ public class Main {
         cachorro1.peso = 5.5;
         cachorro1.tamandoRabo = 1;
 
-        System.out.println(cachorro1.nome);
+        System.out.println(cachorro1.pegar());
+
+        System.out.printf(cachorro1.interagir("vai dormir"));
+        System.out.printf(cachorro1.interagir("carinho"));
     }
 }
