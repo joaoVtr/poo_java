@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a40e1b-27de-44a9-a388-5581c4179d02" name="Changes" comment="Encapsulamento">
-      <change beforePath="$PROJECT_DIR$/src/Animais/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animais/Cachorro.java" afterDir="false" />
-    </list>
+    <list default="true" id="30a40e1b-27de-44a9-a388-5581c4179d02" name="Changes" comment="Encapsulamento" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,23 +26,23 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hku5MSdIOokS4vSk7pDjKJoRMG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -132,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718156080756</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Encapsulamento">
+      <option name="closed" value="true" />
+      <created>1718156890089</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718156890089</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Encapsulamento">
+      <option name="closed" value="true" />
+      <created>1718156894188</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718156894188</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -140,6 +154,7 @@
     <MESSAGE value="poo javva" />
     <MESSAGE value="Classes nao executaveis" />
     <MESSAGE value="Métodos" />
+    <MESSAGE value="Modelagem Orientada a objetos" />
     <MESSAGE value="Encapsulamento" />
     <option name="LAST_COMMIT_MESSAGE" value="Encapsulamento" />
   </component>
