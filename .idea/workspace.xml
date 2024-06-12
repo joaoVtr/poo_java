@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a40e1b-27de-44a9-a388-5581c4179d02" name="Changes" comment="Classes nao executaveis">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="30a40e1b-27de-44a9-a388-5581c4179d02" name="Changes" comment="Encapsulamento">
       <change beforePath="$PROJECT_DIR$/src/Animais/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animais/Cachorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +108,39 @@
       <option name="project" value="LOCAL" />
       <updated>1718152303538</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Métodos">
+      <option name="closed" value="true" />
+      <created>1718153341065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718153341065</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Encapsulamento">
+      <option name="closed" value="true" />
+      <created>1718156052892</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718156052892</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Encapsulamento">
+      <option name="closed" value="true" />
+      <created>1718156080756</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718156080756</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="poo java" />
     <MESSAGE value="poo javva" />
     <MESSAGE value="Classes nao executaveis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes nao executaveis" />
+    <MESSAGE value="Métodos" />
+    <MESSAGE value="Encapsulamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulamento" />
   </component>
 </project>
