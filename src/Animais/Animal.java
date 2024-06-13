@@ -1,5 +1,4 @@
 package Animais;
-
 public abstract class Animal {
     protected String nome;
     protected String cor;
