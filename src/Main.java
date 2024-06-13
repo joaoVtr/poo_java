@@ -1,18 +1,35 @@
 import Animais.Cachorro;
+import Animais.Gato;
+import Animais.Passaro;
 
 public class Main {
     public static void main(String[] args) {
 
+        animais();
         fcachorro();
 
     }
 
+    public static void animais(){
+        System.out.println(" -- animais -- ");
+        Gato gato1 = new Gato( "gato1", "preto", 2);
+        Cachorro cachorro1 = new Cachorro( "dog", "preto", 2, 2, 2, "feliz");
+        Passaro passaro = new Passaro( "passaro", "preto", 2);
+        System.out.println(gato1.toString());
+        System.out.println(cachorro1.toString());
+        gato1.soar();
+        cachorro1.soar();
+        passaro.soar();
+        System.out.println(" -- /animais -- ");
+    }
+
     public static void  fcachorro(){
+        System.out.println(" -- fcachorro -- ");
 //        Cachorro cachorro1 = new Cachorro();
 
         Cachorro cachorro1 = new Cachorro(
                 "testeDog1","Azul", 1, 2, 2, "teste" );
-        Cachorro cachorro2 = new Cachorro();
+        Cachorro cachorro2 = new Cachorro( "c", "preto", 2);;
 
         Cachorro cachorro3 = new Cachorro(
                 "testeDog1","Azul", 1, 2, 2, "teste" );
@@ -41,6 +58,6 @@ public class Main {
         System.out.println(" -- ");
         System.out.println(cachorro1.getNumeroCachorros());
         System.out.println(cachorro2.getNumeroCachorros());
-
+        System.out.println(" -- /fcachorro -- ");
     }
 }
